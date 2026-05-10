@@ -10,7 +10,7 @@ const projects = [
     category: 'E-Commerce',
     tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS'],
     description: 'Developed a modern and responsive business website for Girija Quartz focused on showcasing products with a premium UI and smooth user experience.',
-    image: 'https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&q=80&w=800',
+    image: 'https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800',
     liveLink: '#',
     githubLink: '#'
   },

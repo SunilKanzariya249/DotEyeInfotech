@@ -6,8 +6,8 @@ const testimonials = [
   {
     id: 1,
     content: "DotEyeInfotech transformed our business with a stunning e-commerce platform. Their attention to detail and modern design approach completely exceeded our expectations.",
-    author: "Rahul Sharma",
-    role: "CEO, Girija Quartz",
+    author: "Rohit Hadiyal",
+    role: "Founder, Girija Quartz",
     avatar: "https://i.pravatar.cc/150?img=11"
   },
   {

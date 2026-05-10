@@ -8,7 +8,7 @@ const Layout = ({ children, theme, toggleTheme }) => {
     <>
       <CursorGlow />
       <Navbar theme={theme} toggleTheme={toggleTheme} />
-      <main className="min-h-screen pt-20 relative z-10">
+      <main className="min-h-screen relative z-10">
         {children}
       </main>
       <Footer />

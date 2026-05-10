@@ -33,8 +33,8 @@ const Navbar = ({ theme, toggleTheme }) => {
   return (
     <header 
       className={`fixed top-0 w-full z-50 transition-all duration-300 ${
-        scrolled 
-          ? 'bg-white/80 dark:bg-[#0F172A]/80 backdrop-blur-md shadow-lg py-3' 
+        scrolled || isOpen
+          ? 'bg-white/95 dark:bg-[#0F172A]/95 backdrop-blur-md shadow-lg py-3' 
           : 'bg-transparent py-5'
       }`}
     >
