@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="container mx-auto px-4 md:px-6 relative z-10 grid lg:grid-cols-2 gap-12 items-center">
         
         {/* Content */}
-        <div className="max-w-2xl">
+        <div className="max-w-2xl pt-16 md:pt-0">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
