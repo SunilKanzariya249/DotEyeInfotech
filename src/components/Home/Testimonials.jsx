@@ -8,21 +8,21 @@ const testimonials = [
     content: "DotEyeInfotech transformed our business with a stunning e-commerce platform. Their attention to detail and modern design approach completely exceeded our expectations.",
     author: "Rohit Hadiyal",
     role: "Founder, Girija Quartz",
-    avatar: "https://i.pravatar.cc/150?img=11"
+    avatar: "https://api.dicebear.com/7.x/initials/svg?seed=Rohit+Hadiyal&backgroundColor=2563eb&textColor=ffffff"
   },
   {
     id: 2,
     content: "The team at DotEyeInfotech is incredibly talented. They delivered our custom SaaS dashboard ahead of schedule and the code quality was exceptional.",
     author: "Priya Patel",
     role: "Founder, TechNova",
-    avatar: "https://i.pravatar.cc/150?img=5"
+    avatar: "https://api.dicebear.com/7.x/initials/svg?seed=Priya+Patel&backgroundColor=38bdf8&textColor=ffffff"
   },
   {
     id: 3,
     content: "Outstanding service and communication throughout the entire mobile app development process. I highly recommend them for any tech startup.",
     author: "Amit Desai",
     role: "CTO, QuickDelivery",
-    avatar: "https://i.pravatar.cc/150?img=8"
+    avatar: "https://api.dicebear.com/7.x/initials/svg?seed=Amit+Desai&backgroundColor=0f172a&textColor=ffffff"
   }
 ]
 
